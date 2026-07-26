@@ -12,15 +12,15 @@ Here are some ideas to get you started:
 
 
 link text suggested by boot.dev
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/f0111645-1e97-40fa-837f-2c3c25e80284/thumbnail" >
+</p>
+
 
 
 -->
 
 ![Trix Farrar (BasementTrix)'s badge from boot.dev](https://api.boot.dev/v1/users/public/f0111645-1e97-40fa-837f-2c3c25e80284/thumbnail "boot.dev badge")
-
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/f0111645-1e97-40fa-837f-2c3c25e80284/thumbnail" >
-</p>
 
 ### Github seemed to think these ideas would get me started:
 
